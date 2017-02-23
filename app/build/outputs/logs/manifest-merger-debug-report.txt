@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:3:5-59
+		INJECTED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:11:5-93
+	android:required
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:11:68-91
+	android:name
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:11:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:13:22-81
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:15:22-71
+application
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:17:5-45:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:19:9-52
+activity#com.kircherelectronics.bluetoothgyro.activity.GyroscopeActivity
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:screenOrientation
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:22:13-91
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.kircherelectronics.bluetoothgyro.activity.ConfigActivity
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:32:13-88
+service#com.kircherelectronics.bluetoothgyro.activity.BackgroundService
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:35:9-38:24
+	android:enabled
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:35:18-96
+service#com.kircherelectronics.bluetoothgyro.activity.ProgressIntentService
+ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:39:9-42:19
+	android:exported
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from C:\Linux\GyroscopeExplorer v2.0\GyroscopeExplorer v1.1\app\src\main\AndroidManifest.xml:40:13-95

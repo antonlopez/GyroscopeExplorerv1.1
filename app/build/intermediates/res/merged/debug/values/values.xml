@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+    <color name="blueFlatShadow">#07A4B5</color>
+    <color name="bottomPanelColor">#00BBD2</color>
+    <color name="dark_blue">#0099CC</color>
+    <color name="dark_green">#669900</color>
+    <color name="dark_orange">#FF8800</color>
+    <color name="dark_purple">#9933CC</color>
+    <color name="dark_red">#CC0000</color>
+    <color name="light_blue">#33B5E5</color>
+    <color name="light_green">#99CC00</color>
+    <color name="light_orange">#FFBB33</color>
+    <color name="light_purple">#AA66CC</color>
+    <color name="light_red">#FF4444</color>
+    <color name="mid_blue">#18A6D8</color>
+    <color name="mid_green">#7EB000</color>
+    <color name="mid_orange">#FFA018</color>
+    <color name="mid_purple">#A14ACC</color>
+    <color name="mid_red">#E21E1E</color>
+    <color name="topPanelColor">#F5D563</color>
+    <color name="white">#ffffffff</color>
+    <color name="window_background">@android:color/white</color>
+    <color name="yellowFlatShadow">#DFB43F</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="metric_size">48sp</dimen>
+    <dimen name="run_button_height">60dp</dimen>
+    <dimen name="run_button_width">300dp</dimen>
+    <string name="action_config">Settings</string>
+    <string name="action_help">Help</string>
+    <string name="action_options">Options</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_start_log">Start</string>
+    <string name="action_stop_log">Stop2</string>
+    <string name="app_name">GyroscopeExplorer</string>
+    <string name="confirm_label">I got this.</string>
+    <string name="developer_url">KircherElectronics.com</string>
+    <string name="label_x_axis">X-Axis:</string>
+    <string name="label_y_axis">Y-Axis:</string>
+    <string name="label_z_axis">Z-Axis:</string>
+    <string name="sensor_active">Active</string>
+    <string name="sensor_calibrated_name">GyroscopeCalibrated</string>
+    <string name="sensor_label">Sensor</string>
+    <string name="sensor_unavailable">Unavailable</string>
+    <string name="sensor_uncalibrated_name">GyroscopeUncalibrated</string>
+    <string name="value_default">0.0</string>
+    <string name="value_default_complimentary_filter">0.5</string>
+    <string name="value_default_mean_filter">0.5</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

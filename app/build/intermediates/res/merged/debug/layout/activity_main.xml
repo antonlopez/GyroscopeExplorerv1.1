@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/topPanel"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:background="@color/topPanelColor"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/memory_ava_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="sans-serif-thin"
+            android:text="Memoria"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/metric_size" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton"
+            android:layout_width="@dimen/run_button_width"
+            android:layout_height="@dimen/run_button_height"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="24dp"
+            android:background="@color/yellowFlatShadow"
+            android:text="New ToggleButton"
+            android:textOff="INICIAR SERVICE"
+            android:textOn="DETENER SERVICE" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottomPanel"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:background="@color/bottomPanelColor"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/progress_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="sans-serif-thin"
+            android:text="Progreso"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/metric_size" />
+
+        <Button
+            android:id="@+id/turn_intent_service"
+            android:layout_width="@dimen/run_button_width"
+            android:layout_height="@dimen/run_button_height"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/blueFlatShadow"
+            android:onClick="onClickTurnIntentService (GyroscopeActivity)"
+            android:text="INICIAR INTENT SERVICE" />
+    </LinearLayout>
+</LinearLayout>

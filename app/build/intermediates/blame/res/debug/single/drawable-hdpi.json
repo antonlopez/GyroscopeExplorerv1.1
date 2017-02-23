@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\confirm_button_background.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-hdpi\\confirm_button_background.png"
+    },
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gyroscope_explorer_introduction_3.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-hdpi\\gyroscope_explorer_introduction_3.png"
+    },
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gyroscope_explorer_introduction_2.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-hdpi\\gyroscope_explorer_introduction_2.png"
+    },
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_button_background.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-hdpi\\start_button_background.png"
+    },
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gyroscope_explorer.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-hdpi\\gyroscope_explorer.png"
+    },
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\color_bar.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-hdpi\\color_bar.png"
+    },
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ke_icon.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-hdpi\\ke_icon.png"
+    },
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stop_button_background.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-hdpi\\stop_button_background.png"
+    },
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gyroscope_explorer_introduction_1.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-hdpi\\gyroscope_explorer_introduction_1.png"
+    },
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gyroscope_explorer_introduction_0.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-hdpi\\gyroscope_explorer_introduction_0.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ke_icon.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-mdpi\\ke_icon.png"
+    },
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\color_bar.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-mdpi\\color_bar.png"
+    },
+    {
+        "merged": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\gyroscope_explorer.png",
+        "source": "C:\\Linux\\GyroscopeExplorer v2.0\\GyroscopeExplorer v1.1\\app\\src\\main\\res\\drawable-mdpi\\gyroscope_explorer.png"
+    }
+]

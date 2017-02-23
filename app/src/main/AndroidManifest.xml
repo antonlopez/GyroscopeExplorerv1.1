@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kircherelectronics.com.gyroscopeexplorer"
+    android:versionCode="8"
+    android:versionName="1.5.1" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <uses-feature android:name="android.hardware.sensor.gyroscope" android:required="true"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/gyroscope_explorer"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.kircherelectronics.bluetoothgyro.activity.GyroscopeActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.kircherelectronics.bluetoothgyro.activity.ConfigActivity"
+            android:screenOrientation="portrait" />
+
+
+    </application>
+
+</manifest>
